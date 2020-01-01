@@ -1,0 +1,2 @@
+# trash_classification
+一个用于垃圾分类的模型，使用python语言，通过keras中的VGG16预训练网络实现
